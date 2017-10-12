@@ -1,0 +1,64 @@
+Dependencies for Project 'Lab7-2', Target 'Target 1': (DO NOT MODIFY !)
+F (.\adc0.c)(0x563A8858)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\Test\Desktop\NatCar\RTE-I C:\Users\Test\Desktop\NatCar\RTE\Device\MKL25Z128xxx4-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.11.0\Device\Include-D__UVISION_VERSION="516" -D_RTE_ -DMKL25Z128xxx4-o .\objects\adc0.o --omf_browse .\objects\adc0.crf --depend .\objects\adc0.d)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.11.0\Device\Include\MKL25Z4.h)(0x5644FD9A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AFC8E2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h)(0x562689FC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x56267640)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x56267640)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x56267640)
+I (C:\Users\Test\Desktop\NatCar\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5644FD9A)
+I (adc16.h)(0x563A8858)
+F (.\adc16.c)(0x563A8858)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\Test\Desktop\NatCar\RTE-I C:\Users\Test\Desktop\NatCar\RTE\Device\MKL25Z128xxx4-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.11.0\Device\Include-D__UVISION_VERSION="516" -D_RTE_ -DMKL25Z128xxx4-o .\objects\adc16.o --omf_browse .\objects\adc16.crf --depend .\objects\adc16.d)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.11.0\Device\Include\MKL25Z4.h)(0x5644FD9A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AFC8E2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h)(0x562689FC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x56267640)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x56267640)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x56267640)
+I (C:\Users\Test\Desktop\NatCar\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5644FD9A)
+I (adc16.h)(0x563A8858)
+F (.\adc16.h)(0x563A8858)()
+F (.\main.h)(0x564657C4)()
+F (.\timers.c)(0x562173E4)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\Test\Desktop\NatCar\RTE-I C:\Users\Test\Desktop\NatCar\RTE\Device\MKL25Z128xxx4-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.11.0\Device\Include-D__UVISION_VERSION="516" -D_RTE_ -DMKL25Z128xxx4-o .\objects\timers.o --omf_browse .\objects\timers.crf --depend .\objects\timers.d)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.11.0\Device\Include\MKL25Z4.h)(0x5644FD9A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AFC8E2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h)(0x562689FC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x56267640)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x56267640)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x56267640)
+I (C:\Users\Test\Desktop\NatCar\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5644FD9A)
+I (timers.h)(0x56202648)
+F (.\timers.h)(0x56202648)()
+F (.\uart.c)(0x563A885C)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\Test\Desktop\NatCar\RTE-I C:\Users\Test\Desktop\NatCar\RTE\Device\MKL25Z128xxx4-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.11.0\Device\Include-D__UVISION_VERSION="516" -D_RTE_ -DMKL25Z128xxx4-o .\objects\uart.o --omf_browse .\objects\uart.crf --depend .\objects\uart.d)
+I (main.h)(0x564657C4)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.11.0\Device\Include\MKL25Z4.h)(0x5644FD9A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AFC8E2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h)(0x562689FC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x56267640)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x56267640)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x56267640)
+I (C:\Users\Test\Desktop\NatCar\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5644FD9A)
+I (uart.h)(0x563A885C)
+F (.\uart.h)(0x563A885C)()
+F (.\Test.c)(0x57390933)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\Test\Desktop\NatCar\RTE-I C:\Users\Test\Desktop\NatCar\RTE\Device\MKL25Z128xxx4-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.11.0\Device\Include-D__UVISION_VERSION="516" -D_RTE_ -DMKL25Z128xxx4-o .\objects\test.o --omf_browse .\objects\test.crf --depend .\objects\test.d)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.11.0\Device\Include\MKL25Z4.h)(0x5644FD9A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AFC8E2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h)(0x562689FC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x56267640)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x56267640)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x56267640)
+I (C:\Users\Test\Desktop\NatCar\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5644FD9A)
+I (uart.h)(0x563A885C)
+I (main.h)(0x564657C4)
+I (adc16.h)(0x563A8858)
+I (timers.h)(0x56202648)
+F (RTE\Device\MKL25Z128xxx4\startup_MKL25Z4.s)(0x568C1E62)(--cpu Cortex-M0+ --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Users\Test\Desktop\NatCar\RTE-I C:\Users\Test\Desktop\NatCar\RTE\Device\MKL25Z128xxx4-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.11.0\Device\Include--pd "__UVISION_VERSION SETA 516" --pd "_RTE_ SETA 1" --pd "MKL25Z128xxx4 SETA 1"--list .\listings\startup_mkl25z4.lst --xref -o .\objects\startup_mkl25z4.o --depend .\objects\startup_mkl25z4.d)
+F (RTE\Device\MKL25Z128xxx4\system_MKL25Z4.c)(0x568C1E6A)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\Test\Desktop\NatCar\RTE-I C:\Users\Test\Desktop\NatCar\RTE\Device\MKL25Z128xxx4-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.11.0\Device\Include-D__UVISION_VERSION="516" -D_RTE_ -DMKL25Z128xxx4-o .\objects\system_mkl25z4.o --omf_browse .\objects\system_mkl25z4.crf --depend .\objects\system_mkl25z4.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AFC8E2)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.11.0\Device\Include\MKL25Z4.h)(0x5644FD9A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h)(0x562689FC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x56267640)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x56267640)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x56267640)
+I (C:\Users\Test\Desktop\NatCar\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5644FD9A)
+F (RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5644FD9A)()

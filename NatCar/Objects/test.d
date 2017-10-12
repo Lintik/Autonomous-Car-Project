@@ -1,0 +1,15 @@
+.\objects\test.o: Test.c
+.\objects\test.o: C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.11.0\Device\Include\MKL25Z4.h
+.\objects\test.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\test.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0plus.h
+.\objects\test.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h
+.\objects\test.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h
+.\objects\test.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h
+.\objects\test.o: C:\Users\Test\Desktop\NatCar\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h
+.\objects\test.o: uart.h
+.\objects\test.o: C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.11.0\Device\Include\MKL25Z4.h
+.\objects\test.o: main.h
+.\objects\test.o: C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.11.0\Device\Include\MKL25Z4.h
+.\objects\test.o: adc16.h
+.\objects\test.o: timers.h
+.\objects\test.o: C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.11.0\Device\Include\MKL25Z4.h

@@ -1,0 +1,12 @@
+.\objects\lab7-2.o: lab7-2.c
+.\objects\lab7-2.o: C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.7.0\Device\Include\MKL25Z4.h
+.\objects\lab7-2.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cm0plus.h
+.\objects\lab7-2.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lab7-2.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmInstr.h
+.\objects\lab7-2.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\cmsis_armcc.h
+.\objects\lab7-2.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmFunc.h
+.\objects\lab7-2.o: C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.7.0\Device\Include\system_MKL25Z4.h
+.\objects\lab7-2.o: uart.h
+.\objects\lab7-2.o: main.h
+.\objects\lab7-2.o: adc16.h
+.\objects\lab7-2.o: timers.h
