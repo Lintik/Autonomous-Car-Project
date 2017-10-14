@@ -49,7 +49,7 @@ void put(char *ptr_str)
 
 void init_ADC0(void);
 
-void LED_Initialize(void) {
+void Init_main(void) {
 	SIM->SCGC5 |= (SIM_SCGC5_PORTA_MASK
 		| SIM_SCGC5_PORTB_MASK
 		| SIM_SCGC5_PORTC_MASK
@@ -384,7 +384,7 @@ int main (void) {
 	//char key; //temporary
 	int uart0_clk_khz;
 	
-	LED_Initialize();           /* Initialize the LEDs */
+	Init_main();           /* Initialize the main */
 	uart0_clk_khz = (48000000 / 1000); // UART0 clock frequency will equal half the PLL frequency    ***
           
 
